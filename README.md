@@ -23,10 +23,20 @@ Universidad Europea de Madrid <i>(Erasmus)</i>
 :open_file_folder: Hand-picked repos
 </h2>
 
-|<!-- -->|<!-- -->|
-|:---:|:---:|
-|[![github-user-viewer](https://github.com/markspl/github-user-viewer/raw/main/img/screenshot.png)](https://github.com/markspl/github-user-viewer)|[![markspl.github.io](https://github.com/markspl/markspl.github.io/raw/main/images/frontpage.png)](https://github.com/markspl/markspl.github.io)|
-|[![popup-window-tool](https://github.com/markspl/popup-window-tool/raw/master/img/cover.png)](https://github.com/markspl/popup-window-tool)|[![FinskuBot](https://github.com/markspl/FinskuBot/raw/master/images/finskubot-1.png)](https://github.com/markspl/FinskuBot)|
+<p align="center">
+<a href="https://github.com/markspl/github-user-viewer">
+<img height="200px" src="https://github.com/markspl/github-user-viewer/raw/main/img/screenshot.png" />
+</a>
+<a href="ttps://github.com/markspl/markspl.github.io">
+<img height="200px" src="https://github.com/markspl/markspl.github.io/raw/main/images/frontpage.png" />
+</a>
+<a href="https://github.com/markspl/popup-window-tool">
+<img height="200px" src="https://github.com/markspl/popup-window-tool/raw/master/img/cover.png" />
+</a>
+<a href="https://github.com/markspl/FinskuBot">
+<img height="200px" src="https://github.com/markspl/FinskuBot/raw/master/images/finskubot-1.png" />
+</a>
+</p>
 
 <hr>
 
@@ -37,6 +47,6 @@ Universidad Europea de Madrid <i>(Erasmus)</i>
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bootstrap,docker,nodejs,py,react,vue,html,css&theme=light&" />
+<img width="50%" src="https://skillicons.dev/icons?i=bootstrap,docker,nodejs,py,react,vue,html,css&theme=light&" />
 </a>
 </p>
