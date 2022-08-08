@@ -28,7 +28,7 @@ Universidad Europea de Madrid <i>(Erasmus)</i>
 <img height="200px" src="https://github.com/markspl/github-user-viewer/raw/main/img/screenshot.png" />
 </a>
 <a href="ttps://github.com/markspl/markspl.github.io">
-<img height="200px" src="https://github.com/markspl/markspl.github.io/raw/main/images/frontpage.png" />
+<img height="200px" src="https://github.com/markspl/markspl.github.io/raw/main/images/screenshot.png" />
 </a>
 <a href="https://github.com/markspl/popup-window-tool">
 <img height="200px" src="https://github.com/markspl/popup-window-tool/raw/master/img/cover.png" />
