@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-Tampere University - <i>Software, Web & Cloud (MSc Tech.) student</i><br>
+Tampere University - <i>Software, Web & Cloud (MSc Tech.)</i><br>
 Jamk University of Applied Sciences - <i>Media Engineering (B.Sc.)</i><br>
 Universidad Europea de Madrid <i>(Erasmus)</i>
 </p>
